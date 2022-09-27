@@ -28,10 +28,10 @@ image
 - Reduction in recurring expenses. Only a one-time cost.
 
 - Free-up your personnel for other essential tasks.
-# Chat bot Working:
+## Chat bot Working:
 AI chatbots use natural language processing (NLP) to help users to interact with web services or apps through text, graphics, or speech. Chatbots can understand natural human language, emulate human conversation, and run simple, automated tasks. In addition, AI chatbots use predictive intelligence and analytics to learn a user’s preferences and use this knowledge to provide recommendations and anticipate needs.
 
 AI chatbots are used in a variety of channels, such as messaging apps, mobile apps, websites, phone lines, and voice-enabled apps. They can be developed to handle just a few simple commands or to serve as complex digital assistants and interactive agents. An AI chatbot can be a part of a larger application or be completely stand-alone.
-
+## Screenshots of MS_Azure-ChatBot:
 
   
