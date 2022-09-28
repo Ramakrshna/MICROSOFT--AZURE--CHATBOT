@@ -4,7 +4,7 @@ Azure Bot Service provides an integrated development environment for bot buildin
 ## Project Title:
 AZURE CHAT BOT 
 ## Project Statement :
-In my AZURE CHAT BOT Project i create an information about Microsoft Azure that helps to know basics like virtual machine, azure services,azure sql database,azure qna maker,azure cognitive search etc..... and ask about azure in chat bot it gives answers to know more about it and it like a small conversation .
+In my Microsoft Azure Chat Bot project i create an information about Microsoft Azure that helps to know basics like virtual machine, azure services,azure sql database,azure qna maker,azure cognitive search etc..... and ask about azure in chat bot it gives answers to know more about it and it like a small conversation .
 ## Project Description :
 To know about basic overview of Microsoft Azure and ask about azure in chat bot it gives answers to know more about it and it like a small conversation,and to learn basics of azure and it uses to create azure services and cloud based projects,buid and deploy some azure services.In chat bot home page has some azure important pages and chat bot page we ask questions and history of azure page is there it has some important information about azure.
 ## MICROSOFT AZURE BOT SERVICE Advantages:
