@@ -35,3 +35,9 @@ AI chatbots are used in a variety of channels, such as messaging apps, mobile ap
 ## Screenshots of Microsoft-Azure-ChatBot:
 
   
+![9jdf2g](https://user-images.githubusercontent.com/110703565/192781359-a9873a06-4d7c-4a0c-9b99-7a98e7e86d8e.jpg)
+)
+
+![9jdf2g](https://user-images.githubusercontent.com/110703565/192781359-a9873a06-4d7c-4a0c-9b99-7a98e7e86d8e.jpg)
+
+)
