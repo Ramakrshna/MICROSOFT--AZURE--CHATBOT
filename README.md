@@ -45,6 +45,9 @@ AI chatbots are used in a variety of channels, such as messaging apps, mobile ap
 # FAQ page 
 ![IMG_20220928_210709](https://user-images.githubusercontent.com/110703565/193278854-8a809c96-86ad-44c6-b18d-1c836698e20b.jpg)
 
+# Pages 
+![IMG_20220930_185714](https://user-images.githubusercontent.com/110703565/193280041-399e4c97-b241-46c3-ae17-a704819e63b0.jpg)
+
 
 
 
