@@ -33,7 +33,7 @@ AI chatbots use natural language processing (NLP) to help users to interact with
 
 AI chatbots are used in a variety of channels, such as messaging apps, mobile apps, websites, phone lines, and voice-enabled apps. They can be developed to handle just a few simple commands or to serve as complex digital assistants and interactive agents. An AI chatbot can be a part of a larger application or be completely stand-alone.
 # PROJECT DEMO VIDEO 
-note: my chat bot working in azure for students subscription period only,now the period is over 
+#Note: my chat bot working in azure for students subscription period only,now the period is over 
 thats why iam adding demo video . this video recorded in subscription period please understand. thank you.
 
 https://user-images.githubusercontent.com/110703565/194298441-f554a28f-cf99-46cb-a9da-ac843a4b2e22.mp4
