@@ -43,7 +43,9 @@ https://user-images.githubusercontent.com/110703565/194312976-1de9fcb2-65ab-4cef
 
 
 # Screenshots of Microsoft-Azure-ChatBot:
-https://user-images.githubusercontent.com/110703565/194570690-5bd9a47d-aeac-4520-b6a1-044a73a134e9.jpg
+![IMG_20221007_192200](https://user-images.githubusercontent.com/110703565/194570690-5bd9a47d-aeac-4520-b6a1-044a73a134e9.jpg)
+
+
 # chat bot page
 
 ![IMG_20220928_210437](https://user-images.githubusercontent.com/110703565/193277023-21d58bcb-06e5-4479-ae2e-e21787fbcf16.jpg)
